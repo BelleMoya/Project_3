@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Exchange</title>
+    <link rel="stylesheet" type="text/css" href="templates/static/css/style.css">
+</head>
+
+<style>
+body {
+  height: 100vh;
+  overflow: hidden;
+  
+  background: 
+    radial-gradient(circle at bottom, #fff -30%, transparent 70%),
+    linear-gradient(to right, #134a8e, #00b6f1 50%),
+    #fff; 
+  
+  background: 
+    radial-gradient(circle at bottom, #fff, transparent 80%),    
+    linear-gradient(to top, dodgerblue 0%, transparent 70%),    
+    linear-gradient(to bottom, transparent, rgba(#fff, 0.4) 70%),
+    $blue;  
+  animation: bg 30s infinite;
+}
+
+@keyframes bg {
+  0%, 100% { background-color: #1e90ff; }
+  25% { background-color: #39d24a; }
+  50% { background-color: #ffe244; }
+  75% { background-color:  #ff36a3; }
+}
+    }
+    h1{
+        margin-bottom: 15px;
+        font-size: 60px;
+        font-style: sans-serif;
+        color:black;
+        text-align: center;
+    }
+    h2{
+        margin-top: 15px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-style: oblique;
+        color:black;
+        text-align: center; 
+    }
+    h3{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-style: oblique;
+        color:black;
+        text-align: center; 
+    } 
+    h4{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-style: oblique;
+        color:black;
+        text-align: center; 
+    }
+    widget{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .header a{
+  color:rgba(255, 255, 255, 0.932)
+}
+
+</style>
+<body>
+  <div class="header">
+    <div class="sides">
+        <a href="landing.html" class="logo">Home</a>
+</div>
+    <h1>Currency Conversion Calculator</h1>
+    <!--Weather Widget This was giving issues with finding the country of choice weather
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <div class="elfsight-app-4c88b20d-9245-4188-bf9f-e0d9290757b4"></div>-->
+    <h2>Step 1: Enter how much you want to converter</h2>
+    <h3>Step 2: Select your Currency</h3>
+    <h4>Step 3: Select the Currency of where you are going</h4>
+    <!--Currency Widget-->
+    <widget style="width:200px;border:1px solid #00FF00;"><div style="text-align:center;background-color:#3491A8;width:100%;font-size:13px;font-weight:bold;height:20px;padding-top:2px;">
+        <a href="https://www.exchangeratewidget.com/" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div>
+        <script type="text/javascript" src="https://www.exchangeratewidget.com/converter.php?l=en&f=USD&t=EUR&a=1&d=CAF7CA&n=FFFFFF&o=000000&v=1"></script></widget>
+
+</body>
+</html>

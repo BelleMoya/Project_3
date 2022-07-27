@@ -1,0 +1,16 @@
+
+#map { position: absolute; top: 0; bottom: 0; width: 100%}
+#header,
+p,
+h4,
+h3,
+h1,
+h2 {text-align: center;
+}
+.marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+    }
