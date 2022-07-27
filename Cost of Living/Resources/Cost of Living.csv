@@ -1,0 +1,519 @@
+﻿City,Country,Column12,Column3,ISO 3166,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+Tirana,Albania,ALL,Albanian Lek,AL,39.29,11.49,25.93,31.29,29.29,27.96
+Durres,Albania,ALL,Albanian Lek,AL,31.86,6.18,19.52,24.7,24.1,27.09
+Algiers,Algeria,DZD,Algerian Dinar,DZ,28.46,5.83,17.59,28.68,17.98,22.53
+Oran,Algeria,DZD,Algerian Dinar,DZ,25.66,4.76,15.62,26.77,13.22,20.68
+Buenos Aires,Argentina,ARS,Argentine Peso,AR,33,9.55,21.74,26.74,29.09,28.95
+Yerevan,Armenia,AMD,Armenian Dram,AM,39.06,18.77,29.31,33.54,33.73,25.76
+Sydney,Australia,AUD,Australian Dollar,AU,78.33,49.42,64.44,73.68,68.14,113.09
+Brisbane,Australia,AUD,Australian Dollar,AU,75.22,35.28,56.03,72.95,65.44,115.81
+Melbourne,Australia,AUD,Australian Dollar,AU,75.07,35.18,55.9,74.43,68.75,111.44
+Perth,Australia,AUD,Australian Dollar,AU,74.19,33.44,54.61,71.28,70.72,122.06
+Adelaide,Australia,AUD,Australian Dollar,AU,72.9,30.8,52.67,72.37,61.64,119.18
+Hobart,Australia,AUD,Australian Dollar,AU,70.33,23.27,47.72,67.07,64.26,120.46
+Canberra,Australia,AUD,Australian Dollar,AU,70.05,36.34,53.85,72.2,67.76,142.71
+Gold Coast,Australia,AUD,Australian Dollar,AU,69.56,33.62,52.29,65.17,62.16,113.76
+Graz,Austria,EUR,Euro,EU,65.62,18.82,43.13,61.33,54.98,77.49
+Innsbruck,Austria,EUR,Euro,EU,65.26,24.53,45.69,55.1,63.68,65.95
+Linz,Austria,EUR,Euro,EU,63.82,21.37,43.42,56.35,61.38,71.94
+Vienna,Austria,EUR,Euro,EU,62.17,29,46.23,54.7,62.04,79.23
+Salzburg,Austria,EUR,Euro,EU,61.84,25.79,44.51,55.25,61.22,75.23
+Baku,Azerbaijan,AZN,Azerbaijani Manat,AZ,30.41,7.63,19.46,26.3,27.76,29.96
+Nassau,Bahamas,BSD,Bahamian Dollar,BS,95.78,43.42,70.62,82.12,103.15,40.97
+Manama,Bahrain,BHD,Bahraini Dinar,BH,53.28,28.86,41.54,40.68,48.06,66.95
+Dhaka,Bangladesh,BDT,Bangladeshi Taka,BD,32.1,4.53,18.86,29.27,20.08,23.79
+Minsk,Belarus,BYN,Belarusian Ruble,BY,30.27,10.35,20.7,26.94,30.69,35.08
+Brussels,Belgium,EUR,Euro,EU,65.6,27.85,47.46,54.76,65.55,85.65
+Antwerp,Belgium,EUR,Euro,EU,65.53,22.28,44.75,52.18,73.47,82.22
+Leuven,Belgium,EUR,Euro,EU,64.24,23.47,44.65,52.28,69.71,90.25
+Gent,Belgium,EUR,Euro,EU,62.69,23.51,43.86,52.16,67.55,75.52
+Hamilton,Bermuda,BMD,Bermudian Dollar,BM,145.5,94.97,121.22,149.27,142.77,80.93
+La Paz,Bolivia,BOB,Bolivian Boliviano,BO,36.27,8.37,22.87,32.67,23.89,34.91
+Sarajevo,Bosnia And Herzegovina,BAM,Bosnia and Herzegovina Mark,BA,35.64,7.16,21.96,30.5,23.65,52.77
+Banja Luka,Bosnia And Herzegovina,BAM,Bosnia and Herzegovina Mark,BA,32.87,6.6,20.25,27.87,23.22,40.66
+Gaborone,Botswana,BWP,Botswana Pula,BW,37.73,9.81,24.32,32.61,41.09,50.5
+Sao Paulo,Brazil,BRL,Brazilian Real,BR,39.66,13.99,27.32,34.14,32.69,26.3
+Rio de Janeiro,Brazil,BRL,Brazilian Real,BR,38.51,10.79,25.19,30.96,30.1,22.55
+Brasilia,Brazil,BRL,Brazilian Real,BR,37.76,10.73,24.78,30.64,30.73,37.49
+Campinas,Brazil,BRL,Brazilian Real,BR,36.11,9.18,23.17,27.85,28.46,35.01
+Florianopolis,Brazil,BRL,Brazilian Real,BR,35.87,10.28,23.58,29.76,29.73,30.38
+Porto Alegre,Brazil,BRL,Brazilian Real,BR,34.5,8.34,21.93,28.59,24.89,27.16
+Belo Horizonte,Brazil,BRL,Brazilian Real,BR,34.29,7.63,21.48,27.49,24.14,26.15
+Curitiba,Brazil,BRL,Brazilian Real,BR,33.44,8.31,21.37,27.85,25.05,35.83
+Recife,Brazil,BRL,Brazilian Real,BR,33.43,6.07,20.28,28.06,23.38,30.43
+Sofia,Bulgaria,BGN,Bulgarian Lev,BG,42.89,12.52,28.3,37.52,38.31,50.48
+Plovdiv,Bulgaria,BGN,Bulgarian Lev,BG,36.67,7.94,22.86,33.18,31.98,44.58
+Varna,Bulgaria,BGN,Bulgarian Lev,BG,35.74,8.41,22.61,31.17,29.39,48.36
+Phnom Penh,Cambodia,KHR,Cambodian Riel,KH,47.34,17.33,32.92,45.91,23.18,14.1
+Nanaimo,Canada,CAD,Canadian Dollar,CA,76.27,35.52,56.69,76.53,66.14,85.24
+Vancouver,Canada,CAD,Canadian Dollar,CA,76.53,52.76,65.11,74.1,83.24,89.71
+Victoria,Canada,CAD,Canadian Dollar,CA,75.76,43.23,60.13,77.23,73.88,93.36
+Toronto,Canada,CAD,Canadian Dollar,CA,74.8,46.66,61.28,70.39,73.73,92.22
+Calgary,Canada,CAD,Canadian Dollar,CA,73.88,32.44,53.97,69.4,69.17,119.76
+Edmonton,Canada,CAD,Canadian Dollar,CA,71.92,26.58,50.13,68.12,69.27,109.96
+Guelph,Canada,CAD,Canadian Dollar,CA,71.88,38.79,55.98,73.07,69.41,98.55
+Ottawa,Canada,CAD,Canadian Dollar,CA,71.12,36.24,54.36,65.23,72.19,98.07
+Markham,Canada,CAD,Canadian Dollar,CA,70.8,48.48,60.08,64.44,72.01,96.33
+Halifax,Canada,CAD,Canadian Dollar,CA,70.79,33.52,52.88,70.65,67.34,99.77
+Montreal,Canada,CAD,Canadian Dollar,CA,69.75,30.52,50.9,67.68,68.5,86.13
+Kitchener,Canada,CAD,Canadian Dollar,CA,69.53,34.7,52.79,67.66,69.5,95.82
+Mississauga,Canada,CAD,Canadian Dollar,CA,69.53,44.14,57.33,59.63,63.12,91.81
+Winnipeg,Canada,CAD,Canadian Dollar,CA,68.32,25.25,47.62,67.76,62.58,75.97
+Hamilton,Canada,CAD,Canadian Dollar,CA,68.31,35.26,52.43,68.73,63.08,87.56
+London,Canada,CAD,Canadian Dollar,CA,68.25,37.12,53.29,62.41,72.77,102.21
+Surrey,Canada,CAD,Canadian Dollar,CA,67.75,38.98,53.92,67.64,60.27,106.2
+Brampton,Canada,CAD,Canadian Dollar,CA,67.62,39.08,53.91,63.56,58.42,127.93
+Saskatoon,Canada,CAD,Canadian Dollar,CA,67.19,24.99,46.91,61.04,62.18,108.81
+Kingston,Canada,CAD,Canadian Dollar,CA,66.96,34.53,51.38,63.73,63.93,98.63
+Kelowna,Canada,CAD,Canadian Dollar,CA,66.85,39.05,53.49,65.93,60.7,101.89
+Burnaby,Canada,CAD,Canadian Dollar,CA,66.37,51.61,59.28,65.34,58.72,93.46
+Quebec City,Canada,CAD,Canadian Dollar,CA,65.39,19.95,43.55,63.36,61.13,124.22
+Windsor,Canada,CAD,Canadian Dollar,CA,65.31,31.45,49.04,59.3,64.06,94.71
+Red Deer,Canada,CAD,Canadian Dollar,CA,64.94,19.98,43.34,61.58,55.72,114.51
+Regina,Canada,CAD,Canadian Dollar,CA,64.77,22.01,44.22,60.37,64.31,121.3
+St. John's,Canada,CAD,Canadian Dollar,CA,75.19,20.34,48.84,72.56,66.24,130.91
+Santiago,Chile,CLP,Chilean Peso,CL,38.99,12.86,26.43,35.09,38.88,34.28
+Beijing,China,CNY,Chinese Renminbi,CN,49.37,39.32,44.54,47.55,34.16,45.96
+Shanghai,China,CNY,Chinese Renminbi,CN,48.48,39.14,43.99,49.99,38.36,48.85
+Shenzhen,China,CNY,Chinese Renminbi,CN,46,25.44,36.12,48.52,31.76,70.01
+Hangzhou,China,CNY,Chinese Renminbi,CN,41.83,15.89,29.37,48.75,28.89,63.14
+Suzhou,China,CNY,Chinese Renminbi,CN,41.1,14.9,28.51,47.54,29.08,52.52
+Chengdu,China,CNY,Chinese Renminbi,CN,41.08,14.95,28.53,46.57,25.59,44.88
+Guangzhou,China,CNY,Chinese Renminbi,CN,38.57,17.75,28.57,39.67,26.94,68.59
+Nanjing,China,CNY,Chinese Renminbi,CN,36.17,15.87,26.42,37.71,22.31,70.89
+Qingdao,China,CNY,Chinese Renminbi,CN,32.65,9.96,21.74,34.98,22.23,71.81
+Medellin,Colombia,COP,Colombian Peso,CO,27.88,8.69,18.66,25.28,21.43,31.96
+Bogota,Colombia,COP,Colombian Peso,CO,27.06,10.66,19.18,24.86,20.22,26.34
+Barranquilla,Colombia,COP,Colombian Peso,CO,26.09,6.81,16.83,24.19,18.24,30.28
+Cali,Colombia,COP,Colombian Peso,CO,25.7,5.88,16.17,23.63,16.56,31.18
+Bucaramanga,Colombia,COP,Colombian Peso,CO,22.27,5.31,14.12,18.13,15.14,27.45
+San Jose,Costa Rica,CRC,Costa Rican Colon,CR,44.4,17.69,31.57,41.16,41.64,37.57
+Dubrovnik,Croatia,HRK,Croatian Kuna,HR,50.6,12.7,32.39,36.54,53.39,39.75
+Zagreb,Croatia,HRK,Croatian Kuna,HR,46.83,14.45,31.27,39.3,39.34,53.28
+Split,Croatia,HRK,Croatian Kuna,HR,43.29,13.04,28.75,37.16,36.79,48.83
+Rijeka,Croatia,HRK,Croatian Kuna,HR,43.15,11.26,27.83,38.31,37.51,44.87
+Osijek,Croatia,HRK,Croatian Kuna,HR,39.26,8.26,24.37,32.07,29.4,51.39
+Havana,Cuba,CUP,Cuban Peso,CU,54.19,17.9,36.75,44.74,40.39,1.43
+Larnaca,Cyprus,EUR,Euro,EU,58.89,21.39,40.87,46.2,59.6,42.07
+Limassol,Cyprus,EUR,Euro,EU,57.47,31.67,45.07,45.79,57.32,55.17
+Nicosia,Cyprus,EUR,Euro,EU,53.53,18.28,36.59,44.28,52.99,57.71
+Prague,Czech Republic,CZK,Czech Koruna,CZ,49.62,24.93,37.76,42.91,38.42,65.63
+Brno,Czech Republic,CZK,Czech Koruna,CZ,45.5,18.27,32.42,37.08,34.67,65.5
+Ostrava,Czech Republic,CZK,Czech Koruna,CZ,43.4,13.14,28.86,36.28,31.06,65.43
+Odense,Denmark,DKK,Danish Krone,DK,79.37,26.1,53.77,66.89,91.2,89.64
+Copenhagen,Denmark,DKK,Danish Krone,DK,77.26,42.45,60.53,60.22,89.59,90.17
+Arhus,Denmark,DKK,Danish Krone,DK,75.01,29.42,53.11,59.16,89.73,94.22
+Aalborg,Denmark,DKK,Danish Krone,DK,72.25,20.33,47.31,61.69,77.57,111.59
+Santo Domingo,Dominican Republic,DOP,Dominican Peso,DO,46.19,14.59,31.01,40.99,37.79,21.62
+Cuenca,Ecuador,USD,United States Dollar,US,37.96,11.1,25.05,35.27,30.57,29.62
+Quito,Ecuador,USD,United States Dollar,US,37.73,10.75,24.77,34.65,31.38,30.85
+Guayaquil,Ecuador,USD,United States Dollar,US,36.05,10.53,23.79,30.07,25.94,38.03
+Cairo,Egypt,EGP,Egyptian Pound,EG,28.56,6.4,17.91,25.68,24.87,21.74
+Alexandria,Egypt,EGP,Egyptian Pound,EG,26.74,5.76,16.66,24.07,25.86,19.73
+Giza,Egypt,EGP,Egyptian Pound,EG,26.54,3.77,15.6,24.42,21.22,29.84
+San Salvador,El Salvador,USD,United States Dollar,US,44.68,14.99,30.41,43.04,35.46,20.69
+Tallinn,Estonia,EUR,Euro,EU,54.79,17.78,37.01,40.76,53.82,58.06
+Tartu,Estonia,EUR,Euro,EU,46.77,12.79,30.44,39.41,44.4,64.48
+Addis Ababa,Ethiopia,ETB,Ethiopian Birr,ET,43.1,17.69,30.89,34.68,25.57,10.16
+Suva,Fiji,FJD,Fiji Dollar,FJ,34.46,15.39,25.3,34.76,30.78,51.61
+Espoo,Finland,EUR,Euro,EU,74.95,30.13,53.41,67.57,83.04,85.71
+Helsinki,Finland,EUR,Euro,EU,67.88,31.55,50.42,58.29,70.05,84.76
+Turku,Finland,EUR,Euro,EU,67.59,19.17,44.32,59.77,70.97,89.7
+Oulu,Finland,EUR,Euro,EU,65.58,19.64,43.51,59.9,61.94,92.11
+Tampere,Finland,EUR,Euro,EU,61.34,20.43,41.68,50.67,69.06,94.35
+Nice,France,EUR,Euro,EU,72.07,26.55,50.2,67.61,75.63,77.14
+Paris,France,EUR,Euro,EU,72.05,41.52,57.38,69.53,67.34,73.13
+Lyon,France,EUR,Euro,EU,70.09,22.24,47.1,67.89,64.82,80.23
+Toulouse,France,EUR,Euro,EU,66.32,21.5,44.78,65.05,64.56,89.5
+Grenoble,France,EUR,Euro,EU,66.07,17.38,42.67,62.78,56.97,78
+Nantes,France,EUR,Euro,EU,64.19,22.17,44,62.22,60.96,79.59
+Marseille,France,EUR,Euro,EU,64.02,21.02,43.36,63.65,57.2,90.46
+Batumi,Georgia,GEL,Georgian Lari,GE,31.77,12.48,22.5,30.79,26.63,26.4
+Tbilisi,Georgia,GEL,Georgian Lari,GE,36.71,17.52,27.49,30.88,34.86,23.91
+Munich,Germany,EUR,Euro,EU,69.33,40.64,55.54,58.71,64.92,89.66
+Hamburg,Germany,EUR,Euro,EU,68.38,33.51,51.62,52.83,59.62,93.45
+Bonn,Germany,EUR,Euro,EU,66.92,27.17,47.82,53.24,65.04,69.64
+Frankfurt,Germany,EUR,Euro,EU,65.29,33.6,50.06,50.17,57.96,103.28
+Heidelberg,Germany,EUR,Euro,EU,63.77,28.05,46.61,47.97,61.2,103.34
+Dortmund,Germany,EUR,Euro,EU,63.52,19.13,42.19,52.7,51.59,81.01
+Karlsruhe,Germany,EUR,Euro,EU,63.37,23.78,44.34,53.85,55.79,110.85
+Berlin,Germany,EUR,Euro,EU,62.87,33.77,48.89,51.39,51.21,98.28
+Stuttgart,Germany,EUR,Euro,EU,62.63,28.73,46.34,51,58.84,113.06
+Mannheim,Germany,EUR,Euro,EU,62.27,20.67,42.28,50.04,53.26,111.11
+Cologne,Germany,EUR,Euro,EU,61.32,25.2,43.96,48.94,52.99,88.47
+Hanover,Germany,EUR,Euro,EU,61.18,21.18,41.96,51.19,54.77,90.26
+Dusseldorf,Germany,EUR,Euro,EU,60.94,29.31,45.74,48.72,53.73,112.96
+Augsburg,Germany,EUR,Euro,EU,59.68,23.48,42.29,43.77,56.51,81.14
+Essen,Germany,EUR,Euro,EU,59.26,17.86,39.37,46.38,55.49,112.39
+Bremen,Germany,EUR,Euro,EU,59,18.92,39.74,50.34,51.93,77.67
+Freiburg im Breisgau,Germany,EUR,Euro,EU,58.84,29.18,44.59,47.57,50.6,115.92
+Leipzig,Germany,EUR,Euro,EU,57.96,19.91,39.68,45.62,48.87,92.93
+Nuremberg,Germany,EUR,Euro,EU,57.31,20.31,39.53,45.16,47.88,112.72
+Dresden,Germany,EUR,Euro,EU,56.12,17.29,37.46,44.02,48.69,102.26
+Aachen,Germany,EUR,Euro,EU,55.56,18.21,37.61,45.15,49.64,118.13
+Accra,Ghana,GHS,Ghanaian Cedi,GH,32.69,19.36,26.29,32.76,27.52,19
+Athens,Greece,EUR,Euro,EU,54.8,15.66,35.99,42.81,53.3,38.03
+Thessaloniki,Greece,EUR,Euro,EU,52.95,11.32,32.95,38.56,46.15,36.89
+Heraklion,Greece,EUR,Euro,EU,48.95,11.22,30.82,39.92,39.34,34.27
+Guatemala City,Guatemala,GTQ,Guatemalan Quetzal,GT,43.16,16.24,30.22,41.4,31.16,23.92
+Georgetown,Guyana,GYD,Guyanese Dollar,GY,46.11,8.35,27.96,48.71,35.94,20.82
+Hong Kong,Hong Kong,HKD,Hong Kong Dollar,HK,75.19,66.14,70.84,80.43,53.13,66.66
+Budapest,Hungary,HUF,Hungarian Forint,HU,39.93,13.02,27,34.86,34.06,53.32
+Debrecen,Hungary,HUF,Hungarian Forint,HU,34.28,8.98,22.12,30.19,29.86,48.26
+Szeged,Hungary,HUF,Hungarian Forint,HU,34.1,8,21.56,31.8,26.74,50.45
+Reykjavik,Iceland,ISK,Icelandic Króna,IS,90.35,40.39,66.34,85.19,93.27,81.14
+Noida,India,INR,Indian Rupee,IN,29.17,5.32,17.71,28.1,26.43,116.12
+Gurgaon,India,INR,Indian Rupee,IN,28.83,7.6,18.63,29.45,22.63,122.19
+Mumbai,India,INR,Indian Rupee,IN,27.01,17.29,22.34,27.75,22.26,58.44
+Delhi,India,INR,Indian Rupee,IN,26.74,7.86,17.67,25.41,23.91,52.34
+Bangalore,India,INR,Indian Rupee,IN,26.62,7.99,17.66,28.1,19.24,130.51
+Visakhapatnam,India,INR,Indian Rupee,IN,26.13,6.74,16.81,28.08,14.5,82.86
+Hyderabad,India,INR,Indian Rupee,IN,25.32,6,16.04,27.43,18.12,45.58
+Pune,India,INR,Indian Rupee,IN,24.78,6.56,16.03,25.91,19.43,97.7
+Guwahati,India,INR,Indian Rupee,IN,24.64,3.98,14.71,25.23,18.65,59.45
+Ahmedabad,India,INR,Indian Rupee,IN,24.49,6.97,16.07,24.67,17.73,38.8
+Lucknow (Lakhnau),India,INR,Indian Rupee,IN,23.76,4.29,14.4,23.3,16.21,53.99
+Indore,India,INR,Indian Rupee,IN,23.7,4.51,14.48,25.73,15.45,59.42
+Kolkata,India,INR,Indian Rupee,IN,23.58,5.17,14.74,24.97,16.28,56.53
+Bhubaneswar,India,INR,Indian Rupee,IN,23.42,4.86,14.5,24.73,15.19,58.7
+Jaipur,India,INR,Indian Rupee,IN,23.1,4.44,14.13,24.12,14.86,92.02
+Vadodara,India,INR,Indian Rupee,IN,22.91,3.43,13.55,23.35,18.28,41.24
+Chennai,India,INR,Indian Rupee,IN,22.8,5.79,14.63,25.29,14.05,60.24
+Kochi,India,INR,Indian Rupee,IN,22.74,5.84,14.62,24.29,13.33,88.21
+Coimbatore,India,INR,Indian Rupee,IN,22.16,4.67,13.76,25,13.36,61.82
+Bali,Indonesia,IDR,Indonesian Rupiah,ID,38.77,15.29,27.49,41.42,20.89,17.74
+Jakarta,Indonesia,IDR,Indonesian Rupiah,ID,35.94,14.48,25.63,38.12,20.05,30.8
+Bandung,Indonesia,IDR,Indonesian Rupiah,ID,32.62,6.23,19.94,33.99,15.19,23.39
+Surabaya,Indonesia,IDR,Indonesian Rupiah,ID,31.92,8.1,20.47,33.57,15.67,24.28
+Tehran,Iran,IRR,Iranian Rial,IR,32.61,21.35,27.2,22.94,24.65,15.38
+Isfahan (Esfahan),Iran,IRR,Iranian Rial,IR,32.19,14.15,23.52,18.18,15.39,16.96
+Mashhad,Iran,IRR,Iranian Rial,IR,27.69,13.73,20.98,18.89,22.98,20.52
+Erbil (Irbil),Iraq,IQD,Iraqi Dinar,IQ,34.71,12.12,23.86,27.88,29.79,42.56
+Baghdad,Iraq,IQD,Iraqi Dinar,IQ,31.82,10.88,21.76,26.17,26.43,39.14
+Dublin,Ireland,EUR,Euro,EU,72.32,53.8,63.42,56.18,78.1,77
+Galway,Ireland,EUR,Euro,EU,66.86,35.95,52,58.07,60.41,65.44
+Cork,Ireland,EUR,Euro,EU,66.35,39.08,53.25,50.76,70.79,79.68
+Limerick,Ireland,EUR,Euro,EU,65.83,32.23,49.68,53.26,64.42,99.44
+Tel Aviv-Yafo,Israel,ILS,Israeli New Shekel,IL,82.18,48.65,66.07,69.56,88.11,72.92
+Ramat Gan,Israel,ILS,Israeli New Shekel,IL,81.45,36.27,59.74,71.71,89.5,79.16
+Netanya,Israel,ILS,Israeli New Shekel,IL,81.34,28.05,55.73,66.01,96.69,67.49
+Rehovot,Israel,ILS,Israeli New Shekel,IL,81.16,25.87,54.59,70.93,77.48,65.59
+Haifa,Israel,ILS,Israeli New Shekel,IL,77.84,21.07,50.56,65.58,79.25,81.33
+Petah Tikva,Israel,ILS,Israeli New Shekel,IL,77.24,27.38,53.28,66.14,81.14,71.1
+Jerusalem,Israel,ILS,Israeli New Shekel,IL,74.67,34.29,55.27,63.87,84.36,79.66
+Milan,Italy,EUR,Euro,EU,69.56,37.36,54.09,57.5,73.95,53.06
+Parma,Italy,EUR,Euro,EU,63.44,16.69,40.98,50.19,64.29,62.24
+Genoa,Italy,EUR,Euro,EU,63.22,17.41,41.21,58.16,60.09,52.5
+Florence,Italy,EUR,Euro,EU,63.09,21.8,43.25,56.85,59.79,51.13
+Bologna,Italy,EUR,Euro,EU,62.9,22.03,43.26,52.99,64.82,56.15
+Trieste,Italy,EUR,Euro,EU,61.8,17.38,40.46,53.31,61.31,62.17
+Bergamo,Italy,EUR,Euro,EU,61.73,21.87,42.58,52.23,60.09,62.73
+Rome,Italy,EUR,Euro,EU,61.04,30.98,46.59,52.64,59.33,49.4
+Verona,Italy,EUR,Euro,EU,59.53,18.56,39.84,53.25,57.02,63.85
+Treviso,Italy,EUR,Euro,EU,58.66,17.52,38.89,49.86,60.83,58.54
+Cagliari,Italy,EUR,Euro,EU,58.59,18.57,39.36,49.46,55.04,53.17
+Padova,Italy,EUR,Euro,EU,57.25,19.84,39.28,44.67,59.34,57.92
+Turin,Italy,EUR,Euro,EU,57.2,17.09,37.92,50.93,52.76,64.97
+Bari,Italy,EUR,Euro,EU,55.08,20.7,38.56,47.43,53.78,59.35
+Naples,Italy,EUR,Euro,EU,53.8,16.37,35.82,44.62,49.84,58.11
+Palermo,Italy,EUR,Euro,EU,52.59,13.58,33.85,43.44,47.08,59.58
+Catania,Italy,EUR,Euro,EU,51.47,17.73,35.26,39.88,50.97,49.67
+Abidjan,Ivory Coast,XOF,West African CFA franc,CF,40.14,15.69,28.39,34.52,25.51,6.9
+Kingston,Jamaica,JMD,Jamaican Dollar,JM,54.55,17.14,36.57,55.28,38.48,22.12
+Tokyo,Japan,JPY,Japanese Yen,JP,70.86,32.43,52.4,77.45,40.54,80.5
+Osaka,Japan,JPY,Japanese Yen,JP,61.63,19.91,41.58,63.37,36.36,87.47
+Saint Helier,Jersey,JEP,Jersey Pound,JE,83.42,53.51,69.05,65.99,97.46,63.7
+Amman,Jordan,JOD,Jordanian Dinar,JO,49.06,10.07,30.32,39.97,41.83,32.48
+Almaty,Kazakhstan,KZT,Kazakhstani Tenge,KZ,28.47,11.61,20.37,24.64,28.4,35.95
+Astana (Nur-Sultan),Kazakhstan,KZT,Kazakhstani Tenge,KZ,27.64,9.78,19.06,25.16,25.31,42.09
+Nairobi,Kenya,KES,Kenyan Shilling,KE,36.04,11.41,24.2,33.72,28.93,29.8
+Pristina,Kosovo (Disputed Territory),EUR,Euro,EU,26.55,8.33,17.8,23.4,19.72,39.94
+Kuwait City,Kuwait,KWD,Kuwaiti Dinar,KW,47.25,26.91,37.48,32.42,44.09,75.63
+Bishkek,Kyrgyzstan,KGS,Kyrgyzstani Som,KG,27.4,7.54,17.86,24.99,23.78,22.47
+Riga,Latvia,EUR,Euro,EU,50.13,12.9,32.24,38.11,47.47,48.87
+Beirut,Lebanon,LBP,Lebanese Pound,LB,92.7,23.59,59.49,107.16,60.14,12.86
+Tripoli,Libya,LYD,Libyan Dinar,LY,27.75,6.97,17.77,27.78,25.12,23.84
+Vilnius,Lithuania,EUR,Euro,EU,46.95,18.83,33.44,37.18,45.66,56.09
+Kaunas,Lithuania,EUR,Euro,EU,42.01,11.14,27.18,33.83,40.12,63.16
+Klaipeda,Lithuania,EUR,Euro,EU,41.72,9.74,26.36,34.64,33.93,62.6
+Luxembourg,Luxembourg,EUR,Euro,EU,76.34,52.15,64.72,67.29,84.59,95.05
+Macao,Macao,MOP,Macanese Pataca,MO,70.27,34.33,53,75.75,51.43,70.4
+Kuala Lumpur,Malaysia,MYR,Malaysian Ringgit,MY,37.73,11.97,25.35,39.49,24.03,74.54
+Penang,Malaysia,MYR,Malaysian Ringgit,MY,35.45,8.48,22.49,38.82,18.63,57.22
+Petaling Jaya,Malaysia,MYR,Malaysian Ringgit,MY,34.77,10.49,23.1,36.52,23.94,63.73
+Male,Maldives,MVR,Maldivian Rufiyaa,MV,55.28,25.8,41.11,52.68,33.53,30.06
+Valletta,Malta,EUR,Euro,EU,71.03,33.06,52.79,56.17,83.43,33.91
+Sliema,Malta,EUR,Euro,EU,63.45,26.98,45.92,56.77,65.69,44.24
+Monterrey,Mexico,MXN,Mexican Peso,MX,39.62,16.08,28.31,37.14,40.13,49.07
+Tijuana,Mexico,MXN,Mexican Peso,MX,38.94,16.36,28.09,31.75,39.61,42.27
+Mexico City,Mexico,MXN,Mexican Peso,MX,37.87,19.91,29.24,35.97,34.72,34.96
+Cancun,Mexico,MXN,Mexican Peso,MX,37.86,13.87,26.33,36.02,38.34,37.16
+Merida,Mexico,MXN,Mexican Peso,MX,36.51,11.59,24.54,38,32.94,33.92
+Queretaro,Mexico,MXN,Mexican Peso,MX,35.55,11.47,23.98,35.99,30.82,49.17
+Guadalajara,Mexico,MXN,Mexican Peso,MX,35.16,14.17,25.07,35.02,31.96,44.67
+Chisinau,Moldova,MDL,Moldovan Leu,MD,31.24,8.79,20.45,25.14,24.03,35.5
+Ulaanbaatar,Mongolia,MNT,Mongolian Tögrög,MN,33.75,9.06,21.88,32.73,28.04,23.47
+Podgorica,Montenegro,EUR,Euro,EU,34.64,9.17,22.4,29.35,25.28,41.94
+Marrakech,Morocco,MAD,Moroccan Dirham,MA,33.17,9.56,21.83,25.79,26.65,26.84
+Casablanca,Morocco,MAD,Moroccan Dirham,MA,32.39,10.81,22.02,26.93,21.85,36.22
+Rabat,Morocco,MAD,Moroccan Dirham,MA,31.4,11.66,21.91,27.39,22.49,30.08
+Tangier,Morocco,MAD,Moroccan Dirham,MA,30.45,8.32,19.82,28.41,22.44,31.64
+Agadir,Morocco,MAD,Moroccan Dirham,MA,29.69,5.18,17.91,25.54,27.27,30.88
+Kathmandu,Nepal,NPR,Nepalese Rupee,NP,28.5,4.85,17.14,25.82,22.12,18.52
+Amsterdam,Netherlands,EUR,Euro,EU,74.51,46.65,61.13,58.86,77.99,97.12
+Haarlem,Netherlands,EUR,Euro,EU,71.58,39.66,56.24,57.79,71.8,86.09
+Utrecht,Netherlands,EUR,Euro,EU,70.68,35.41,53.73,58.21,69.31,85.81
+Rotterdam,Netherlands,EUR,Euro,EU,70.29,34.85,53.26,58.67,68.52,86.43
+Eindhoven,Netherlands,EUR,Euro,EU,69.88,32.06,51.71,56.87,67.81,103
+Groningen,Netherlands,EUR,Euro,EU,69.22,22.58,46.81,57.76,66.04,66.89
+Nijmegen,Netherlands,EUR,Euro,EU,67.73,27.57,48.43,57.49,67.19,71.22
+Delft,Netherlands,EUR,Euro,EU,66.75,27.59,47.93,57.51,54.49,84.26
+Enschede,Netherlands,EUR,Euro,EU,65.3,25,45.94,56.83,64.29,105.1
+The Hague (Den Haag),Netherlands,EUR,Euro,EU,65.3,29.83,48.25,53.83,70.57,107.76
+Maastricht,Netherlands,EUR,Euro,EU,65.28,30.77,48.7,57.75,62.14,94.81
+Auckland,New Zealand,NZD,New Zealand Dollar,NZ,76.77,39.71,58.96,73.23,70.49,76.83
+Wellington,New Zealand,NZD,New Zealand Dollar,NZ,71.39,39.43,56.03,71.69,61.03,94.97
+Hamilton,New Zealand,NZD,New Zealand Dollar,NZ,69.76,25.97,48.72,66.88,71.76,91.6
+Christchurch,New Zealand,NZD,New Zealand Dollar,NZ,67.49,28.14,48.58,67.03,60.57,93.34
+Lagos,Nigeria,NGN,Nigerian Naira,NG,38.47,53.78,45.83,38.56,33.7,7.69
+Skopje,North Macedonia,MKD,Macedonian Denar,MK,32.75,6.84,20.3,27.02,25.59,34.82
+Oslo,Norway,NOK,Norwegian Krone,NO,91.9,38.44,66.21,83.96,97.03,81.96
+Bergen,Norway,NOK,Norwegian Krone,NO,87.77,30.26,60.14,83.53,85.97,83.86
+Stavanger,Norway,NOK,Norwegian Krone,NO,87.67,29.61,59.77,80.61,90.23,85.9
+Trondheim,Norway,NOK,Norwegian Krone,NO,85.27,29.41,58.43,78.59,92.64,110.77
+Tromso,Norway,NOK,Norwegian Krone,NO,81.59,29.16,56.4,78.38,83.14,91.97
+Muscat,Oman,OMR,Omani Rial,OM,50.04,18.04,34.66,45.14,44.73,79.97
+Lahore,Pakistan,PKR,Pakistani Rupee,PK,19.84,3.59,12.03,16.96,15.84,20.58
+Karachi,Pakistan,PKR,Pakistani Rupee,PK,17.95,3.75,11.13,15.68,11.82,23.74
+Islamabad,Pakistan,PKR,Pakistani Rupee,PK,17.29,4.73,11.25,14.73,14.35,28.43
+Rawalpindi,Pakistan,PKR,Pakistani Rupee,PK,16.8,2.87,10.11,14.9,12.69,26.95
+Multan,Pakistan,PKR,Pakistani Rupee,PK,15.82,2.61,9.47,14.79,11.36,20.08
+Faisalabad,Pakistan,PKR,Pakistani Rupee,PK,15.82,2.54,9.44,12.54,10.17,30.65
+Peshawar,Pakistan,PKR,Pakistani Rupee,PK,14.6,1.66,8.38,13.24,8.14,26.88
+Ramallah,Palestine,EGP,Egyptian Pound,EG,58.76,14.97,37.72,48.81,48.79,38.8
+Panama City,Panama,PAB,Panamanian Balboa,PA,49.97,24.39,37.68,47.25,44.42,33.09
+Asuncion,Paraguay,PYG,Paraguayan Guaraní,PY,30.24,10.51,20.76,25.1,24.09,25.92
+Lima,Peru,PEN,Peruvian Sol,PE,33.47,13.73,23.98,31.73,23.49,28.45
+Makati,Philippines,PHP,Philippine Peso,PH,44.88,26.73,36.16,47.9,25.04,19.67
+Quezon City,Philippines,PHP,Philippine Peso,PH,39.67,11.37,26.07,36.73,23.18,18.68
+Manila,Philippines,PHP,Philippine Peso,PH,36.21,19.32,28.09,35.04,23.69,23.38
+Cebu,Philippines,PHP,Philippine Peso,PH,34.34,12.13,23.67,36.88,20.02,16.9
+Warsaw,Poland,PLN,Polish Z?oty,PL,39.87,20.15,30.39,32.19,37.08,58.77
+Wroclaw,Poland,PLN,Polish Z?oty,PL,38.19,14.94,27.02,30.2,31.74,55.63
+Krakow (Cracow),Poland,PLN,Polish Z?oty,PL,37.96,14.29,26.58,29.57,35.08,60.02
+Katowice,Poland,PLN,Polish Z?oty,PL,36.99,11.12,24.56,30.02,31.35,64.01
+Gdynia,Poland,PLN,Polish Z?oty,PL,36.65,13.86,25.7,29.37,32.17,54.07
+Gdansk,Poland,PLN,Polish Z?oty,PL,36.12,15.45,26.19,28.24,31.95,59.28
+Poznan,Poland,PLN,Polish Z?oty,PL,35.6,13.28,24.87,29.09,31.84,57.83
+Szczecin,Poland,PLN,Polish Z?oty,PL,35.09,12.51,24.24,28.82,29.22,54.33
+Lodz,Poland,PLN,Polish Z?oty,PL,33.96,12.33,23.57,27.14,28.63,56.6
+Lublin,Poland,PLN,Polish Z?oty,PL,32.72,11.51,22.53,26.01,27.68,56.98
+Lisbon,Portugal,EUR,Euro,EU,45.13,28.66,37.21,34.99,43.42,44.51
+Porto,Portugal,EUR,Euro,EU,44.08,20.7,32.84,35.51,35.6,46.81
+Cascais,Portugal,EUR,Euro,EU,43.86,30.65,37.51,32.45,43.8,41.7
+Funchal,Portugal,EUR,Euro,EU,42.9,20.69,32.23,32.11,32.33,52.21
+Braga,Portugal,EUR,Euro,EU,41.78,15.52,29.16,33.9,34.02,51.23
+Coimbra,Portugal,EUR,Euro,EU,41.4,12.96,27.73,33.69,32.56,63.49
+Aveiro,Portugal,EUR,Euro,EU,40.24,15.93,28.56,33.48,30.03,48.04
+San Juan,Puerto Rico,USD,United States Dollar,US,68.25,48.79,58.9,68.31,59.32,50.46
+Doha,Qatar,QAR,Qatari Riyal,QA,60.15,50.29,55.41,50.32,57.26,94.94
+Bucharest,Romania,RON,Romanian Leu,RO,40.27,12.91,27.13,33.55,38.33,50.33
+Cluj-Napoca,Romania,RON,Romanian Leu,RO,38.37,12.34,25.86,33.01,33.28,50.41
+Constanta,Romania,RON,Romanian Leu,RO,37.28,11.17,24.74,30.77,29.53,41.13
+Brasov,Romania,RON,Romanian Leu,RO,37.14,10.34,24.26,31.65,32.32,44.08
+Iasi,Romania,RON,Romanian Leu,RO,34.86,9.28,22.57,29.15,30.13,45.59
+Timisoara,Romania,RON,Romanian Leu,RO,34.64,9.59,22.6,29.29,30.25,53.65
+Sibiu,Romania,RON,Romanian Leu,RO,33.77,8.16,21.46,28.37,28.39,41.1
+Craiova,Romania,RON,Romanian Leu,RO,31.74,7.14,19.92,26.43,22.21,49.01
+Saint Petersburg,Russia,RUB,Russian Ruble,RU,59.61,22.46,41.76,49.38,51.98,38.22
+Moscow,Russia,RUB,Russian Ruble,RU,55.51,30.27,43.38,45.23,56.17,57.74
+Yekaterinburg,Russia,RUB,Russian Ruble,RU,54.12,14.02,34.85,50.41,43.77,58.41
+Kazan,Russia,RUB,Russian Ruble,RU,53.44,15.91,35.41,46.52,46.87,34.02
+Novosibirsk,Russia,RUB,Russian Ruble,RU,52.83,14.24,34.28,44.85,49.58,33.78
+Krasnodar,Russia,RUB,Russian Ruble,RU,52.02,10.8,32.21,42.06,54.19,31.96
+Nizhny Novgorod,Russia,RUB,Russian Ruble,RU,51.57,13.53,33.29,42.9,43.76,34.02
+Rostov-na-donu,Russia,RUB,Russian Ruble,RU,46.49,11.62,29.73,41.71,41.25,34.51
+Kigali,Rwanda,RWF,Rwandan Franc,RW,30.63,14.15,22.71,26.1,25.81,26.69
+Riyadh,Saudi Arabia,SAR,Saudi Riyal,SA,53.89,14.94,35.17,44,42.7,97.13
+Jeddah (Jiddah),Saudi Arabia,SAR,Saudi Riyal,SA,53.13,11.89,33.31,42.88,36.99,80.25
+Ad Dammam,Saudi Arabia,SAR,Saudi Riyal,SA,48.37,12.71,31.23,42.2,34.78,88.04
+Dakar,Senegal,XOF,West African CFA franc,CF,43.42,19.46,31.91,36.42,38.12,22.82
+Belgrade,Serbia,RSD,Serbian Dinar,RS,38.98,13.6,26.79,30.41,34.88,36.42
+Novi Sad,Serbia,RSD,Serbian Dinar,RS,33.13,8.99,21.53,27.38,24.55,43.76
+Nis,Serbia,RSD,Serbian Dinar,RS,30.96,6.1,19.02,23.85,24.76,42.94
+Singapore,Singapore,SGD,Singapore Dollar,SG,79.82,64.06,72.25,70.4,55.95,94.6
+Bratislava,Slovakia,EUR,Euro,EU,47.39,18.24,33.39,41.5,39.73,60.79
+Kosice,Slovakia,EUR,Euro,EU,44.03,14.39,29.79,38.8,32.37,47.44
+Ljubljana,Slovenia,EUR,Euro,EU,51.01,19.73,35.98,44.42,42.36,57.64
+Maribor,Slovenia,EUR,Euro,EU,44.85,12.29,29.21,39.14,35.42,67.05
+Johannesburg,South Africa,ZAR,South African Rand,ZA,38.65,13.45,26.54,30.74,34.3,87.25
+Pretoria,South Africa,ZAR,South African Rand,ZA,37.8,12.83,25.8,29.88,29.57,78.71
+Durban,South Africa,ZAR,South African Rand,ZA,36.8,11.64,24.71,28.84,34.29,73.02
+Cape Town,South Africa,ZAR,South African Rand,ZA,36.54,19.76,28.47,30.17,34.64,71.81
+Seoul,South Korea,KRW,South Korean Won,KR,80.1,32.16,57.06,101.97,45.36,71.94
+Bilbao,Spain,EUR,Euro,EU,56.21,23.96,40.71,48.47,54.14,69.12
+Barcelona,Spain,EUR,Euro,EU,56.1,28.3,42.74,43.84,55.25,71.22
+Madrid,Spain,EUR,Euro,EU,52.84,27.71,40.76,40.23,56.1,74.36
+Palma de Mallorca,Spain,EUR,Euro,EU,50.85,25.73,38.78,40.58,50.58,67.57
+Valencia,Spain,EUR,Euro,EU,49.25,20.18,35.28,42.98,48.69,66.26
+Seville (Sevilla),Spain,EUR,Euro,EU,47.36,16.51,32.53,42.04,41.98,73.19
+Malaga,Spain,EUR,Euro,EU,46.39,19.77,33.6,37.2,42.95,76.43
+Granada,Spain,EUR,Euro,EU,45.99,13.29,30.28,36.91,46.08,96.16
+Las Palmas de Gran Canaria,Spain,EUR,Euro,EU,45.76,19.32,33.06,41.31,39.93,56.62
+Alicante,Spain,EUR,Euro,EU,45.48,16.07,31.35,36.96,47.5,72.18
+Zaragoza (Saragossa),Spain,EUR,Euro,EU,44.74,15.94,30.9,38.9,41.17,87.57
+Santa Cruz de Tenerife,Spain,EUR,Euro,EU,44.58,18.35,31.98,37.82,45.51,74.68
+Murcia,Spain,EUR,Euro,EU,44.37,14.28,29.91,36.09,43.57,67.79
+Vigo,Spain,EUR,Euro,EU,43.64,14.18,29.49,35.58,42.44,81.71
+Colombo,Sri Lanka,LKR,Sri Lanka Rupee,LK,24.25,7.43,16.17,28.93,11.57,14.66
+Khartoum,Sudan,SDG,Sudanese Pound,SD,36.57,10.43,24.01,40.24,18.79,7.74
+Stockholm,Sweden,SEK,Swedish Krona,SE,70.3,37.92,54.75,62.48,68.17,89.18
+Uppsala,Sweden,SEK,Swedish Krona,SE,63.69,21.29,43.31,54.64,65.44,84.31
+Lund,Sweden,SEK,Swedish Krona,SE,63.3,24.61,44.71,59.64,57.61,95.58
+Gothenburg,Sweden,SEK,Swedish Krona,SE,62.86,25.33,44.83,55.06,58.65,101.58
+Malmo,Sweden,SEK,Swedish Krona,SE,61.65,22.01,42.6,54.8,60.67,105.2
+Basel,Switzerland,CHF,Swiss Franc,CH,118.4,42.6,81.98,123.26,110.97,112.15
+Zug,Switzerland,CHF,Swiss Franc,CH,117.92,59.66,89.92,117.46,120.03,144.17
+Zurich,Switzerland,CHF,Swiss Franc,CH,117.92,58.66,89.45,116.06,114.18,120.74
+Lausanne,Switzerland,CHF,Swiss Franc,CH,117.05,54.2,86.85,119.2,109.71,116.39
+Bern,Switzerland,CHF,Swiss Franc,CH,114.95,35.76,76.9,119.67,105.16,115.98
+Geneva,Switzerland,CHF,Swiss Franc,CH,102.87,66.27,85.28,99.81,109.89,121.54
+Damascus,Syria,SYP,Syrian Pound,SY,30.75,7.74,19.7,30.17,19.98,4.23
+New Taipei City,Taiwan,TWD,New Taiwan Dollar,TW,63.99,18.83,42.29,81.71,26.22,50.5
+Taipei,Taiwan,TWD,New Taiwan Dollar,TW,59.22,21.01,40.86,69.71,32.93,66.35
+Kaohsiung,Taiwan,TWD,New Taiwan Dollar,TW,51.51,12.35,32.69,60.03,25.05,64.12
+Dar es Salaam,Tanzania,TZS,Tanzanian Shilling,TZ,30.1,12.38,21.59,27.34,19.77,17.17
+Bangkok,Thailand,THB,Thai Baht,TH,45.85,21.64,34.22,44.47,21.73,26.7
+Phuket,Thailand,THB,Thai Baht,TH,37.95,12.62,25.78,38.52,24.26,27.14
+Pattaya,Thailand,THB,Thai Baht,TH,36.85,11.33,24.59,37.23,22.9,21.02
+Chiang Mai,Thailand,THB,Thai Baht,TH,35.32,9.23,22.78,40.71,15.48,30.01
+Trinidad,Trinidad And Tobago,TTD,Trinidad and Tobago Dollar,TT,57.76,20.52,39.87,59.96,54.55,31.89
+Port of Spain,Trinidad And Tobago,TTD,Trinidad and Tobago Dollar,TT,56.64,16.32,37.26,47.22,71.18,36.57
+Tunis,Tunisia,TND,Tunisian Dinar,TN,29.08,6.5,18.23,26.23,16.07,23.97
+Sousse,Tunisia,TND,Tunisian Dinar,TN,25.65,4.61,15.54,23.96,14.98,28.93
+Bursa,Turkey,TRY,Turkish Lira,TR,36.45,4.8,21.24,24.86,31.37,24.4
+Istanbul,Turkey,TRY,Turkish Lira,TR,30.9,11.79,21.72,25.86,20.82,23.53
+Izmir,Turkey,TRY,Turkish Lira,TR,29.55,5.88,18.18,25.05,18.29,26.71
+Antalya,Turkey,TRY,Turkish Lira,TR,28.18,10.13,19.51,21.7,18.53,24.46
+Ankara,Turkey,TRY,Turkish Lira,TR,27.88,5.4,17.08,23.75,17.39,31.47
+Eskisehir,Turkey,TRY,Turkish Lira,TR,26.18,3.98,15.52,21.46,13.95,30.72
+Kampala,Uganda,UGX,Ugandan Shilling,UG,32.95,12.5,23.13,29.11,23.16,10.21
+Kiev (Kyiv),Ukraine,UAH,Ukrainian Hryvnia,UA,35.28,16.51,26.26,30.15,28.69,37.56
+Odessa (Odesa),Ukraine,UAH,Ukrainian Hryvnia,UA,32.11,9.05,21.03,27.81,27.36,29.6
+Dnipro,Ukraine,UAH,Ukrainian Hryvnia,UA,31.99,11.45,22.12,26.4,29.92,32.79
+Lviv,Ukraine,UAH,Ukrainian Hryvnia,UA,30.17,11.54,21.22,26.66,24.09,39.26
+Kharkiv,Ukraine,UAH,Ukrainian Hryvnia,UA,29.94,10.43,20.56,25.42,23.76,35.62
+Dubai,United Arab Emirates,AED,UAE Dirham,AE,62.95,43.56,53.64,47.97,65.6,137.48
+Abu Dhabi,United Arab Emirates,AED,UAE Dirham,AE,55.83,45.34,50.79,45.11,54.68,99.72
+Sharjah,United Arab Emirates,AED,UAE Dirham,AE,47.09,77.3,61.61,38.99,33.54,38.83
+Ajman,United Arab Emirates,AED,UAE Dirham,AE,42.48,15.62,29.58,35.56,39.19,119.22
+London,United Kingdom,GBP,Pound Sterling,GB,77.39,60.74,69.39,55.16,82.49,78.99
+Guildford,United Kingdom,GBP,Pound Sterling,GB,67.73,40.68,54.73,56.67,69.61,107.5
+Reading,United Kingdom,GBP,Pound Sterling,GB,67.55,34.19,51.52,53.42,88.65,92.72
+York,United Kingdom,GBP,Pound Sterling,GB,66.92,29.57,48.97,54.18,62.79,145.4
+Brighton,United Kingdom,GBP,Pound Sterling,GB,65.64,46.22,56.31,51.45,70.11,73.2
+Manchester,United Kingdom,GBP,Pound Sterling,GB,64.04,30.7,48.02,50.83,71.08,85.17
+Liverpool,United Kingdom,GBP,Pound Sterling,GB,64,22.44,44.03,49.26,74.42,72.52
+Oxford,United Kingdom,GBP,Pound Sterling,GB,63.61,45,54.67,55.18,60.83,88.28
+Milton Keynes,United Kingdom,GBP,Pound Sterling,GB,63.5,33.28,48.98,54.73,60.44,109.23
+Bristol,United Kingdom,GBP,Pound Sterling,GB,63.21,33.87,49.11,49.58,68.29,90.62
+Bournemouth,United Kingdom,GBP,Pound Sterling,GB,62.32,29.52,46.56,46.51,77.62,76.3
+Nottingham,United Kingdom,GBP,Pound Sterling,GB,62.08,26.16,44.82,54.48,59.64,83.01
+Plymouth,United Kingdom,GBP,Pound Sterling,GB,61.89,24.34,43.85,48.22,61.34,63.96
+Belfast,United Kingdom,GBP,Pound Sterling,GB,61.45,23.49,43.21,49.52,72.26,80.66
+Edinburgh,United Kingdom,GBP,Pound Sterling,GB,61.12,30.39,46.35,47.69,70.65,93.53
+Glasgow,United Kingdom,GBP,Pound Sterling,GB,60.76,26.03,44.07,46.96,65.68,107.6
+Derby,United Kingdom,GBP,Pound Sterling,GB,60.61,18.14,40.2,49.2,61.57,97.41
+Cardiff,United Kingdom,GBP,Pound Sterling,GB,60.16,28.78,45.08,48.87,67.72,79.49
+Leeds,United Kingdom,GBP,Pound Sterling,GB,60.06,29.13,45.2,47.82,60.39,97.24
+Portsmouth,United Kingdom,GBP,Pound Sterling,GB,60.01,23.06,42.26,53.56,60.42,163.13
+Norwich,United Kingdom,GBP,Pound Sterling,GB,58.51,27.21,43.47,47.26,69.75,73.74
+Aberdeen,United Kingdom,GBP,Pound Sterling,GB,58.47,20.24,40.1,47.96,65.88,107.36
+Coventry,United Kingdom,GBP,Pound Sterling,GB,58.43,22.21,41.03,47.43,52.03,119.62
+Southampton,United Kingdom,GBP,Pound Sterling,GB,58.32,27.85,43.68,45.73,58.8,95.11
+Exeter,United Kingdom,GBP,Pound Sterling,GB,58.17,27.55,43.46,45.23,61.25,79.59
+Newcastle upon Tyne,United Kingdom,GBP,Pound Sterling,GB,57.98,26.48,42.85,45.4,65.2,86.13
+Birmingham,United Kingdom,GBP,Pound Sterling,GB,57.71,31.7,45.21,46.34,55.63,93.17
+Sheffield,United Kingdom,GBP,Pound Sterling,GB,56.19,25.98,41.68,44.5,55.04,85.47
+Dundee,United Kingdom,GBP,Pound Sterling,GB,55.32,21.6,39.12,45.75,59.74,104.54
+Leicester,United Kingdom,GBP,Pound Sterling,GB,54.38,23.84,39.7,43.44,59.32,120.86
+Kingston upon Hull,United Kingdom,GBP,Pound Sterling,GB,52.6,16.72,35.36,44.44,50.51,78.43
+Anchorage,United States,USD,United States Dollar,US,87.64,41.49,65.47,92.47,73.35,116.76
+Birmingham,United States,USD,United States Dollar,US,75.76,40.82,58.97,81.77,66.8,72.5
+Phoenix,United States,USD,United States Dollar,US,73.42,45.43,59.97,69.28,70.4,119.24
+Tucson,United States,USD,United States Dollar,US,67.82,31.34,50.29,65.6,62.93,93.61
+Mesa,United States,USD,United States Dollar,US,64.59,42.84,54.14,64.1,68.05,93.88
+Santa Barbara,United States,USD,United States Dollar,US,103.03,89.8,96.68,111.6,94.78,82.71
+San Francisco,United States,USD,United States Dollar,US,95.77,90.53,93.25,98.42,89.86,136.57
+Oakland,United States,USD,United States Dollar,US,91.36,77.34,84.62,91.51,82.09,130.49
+Sacramento,United States,USD,United States Dollar,US,82.09,52.48,67.86,85.39,69.26,102.03
+Santa Clara,United States,USD,United States Dollar,US,80.67,82.65,81.62,80.35,68.58,163.68
+San Jose,United States,USD,United States Dollar,US,79.56,74.08,76.92,73.42,81.07,157.82
+San Diego,United States,USD,United States Dollar,US,78.46,72.96,75.82,74.91,80.54,123.53
+Los Angeles,United States,USD,United States Dollar,US,76.58,71.04,73.92,74.79,78.68,109.39
+Fremont,United States,USD,United States Dollar,US,74.55,66.18,70.53,70.8,67.53,178.31
+Fresno,United States,USD,United States Dollar,US,71.59,45.64,59.12,66.57,67.37,107.31
+Denver,United States,USD,United States Dollar,US,79.96,53.19,67.1,77.31,74.88,134.18
+Colorado Springs,United States,USD,United States Dollar,US,74.83,43.03,59.55,72.05,76.03,135.96
+Washington,United States,USD,United States Dollar,US,84.42,68.67,76.85,85.43,75.85,122.02
+Miami,United States,USD,United States Dollar,US,79.41,71.2,75.46,77.81,83.82,88.88
+Tampa,United States,USD,United States Dollar,US,74.29,54.06,64.57,70.58,79.97,112.79
+Fort Lauderdale,United States,USD,United States Dollar,US,73.73,62.63,68.39,73.22,79.87,99.93
+Jacksonville,United States,USD,United States Dollar,US,71.63,37.77,55.36,76.51,72.3,123.56
+Orlando,United States,USD,United States Dollar,US,69.8,49.91,60.25,65.09,75.09,120.46
+Atlanta,United States,USD,United States Dollar,US,73.11,47.96,61.02,70.2,66.48,122.54
+Honolulu,United States,USD,United States Dollar,US,101.83,61.66,82.53,112.62,83.52,91.05
+Boise,United States,USD,United States Dollar,US,69.05,44.33,57.17,65.94,63.94,75.38
+Chicago,United States,USD,United States Dollar,US,77.23,54.76,66.43,72.61,79.6,112.72
+Indianapolis,United States,USD,United States Dollar,US,72.34,37.78,55.73,73.57,67.89,123.88
+Wichita,United States,USD,United States Dollar,US,60.13,28.05,44.72,59.45,51.52,102.52
+Louisville,United States,USD,United States Dollar,US,65.93,28.47,47.93,66.56,63.92,119.78
+New Orleans,United States,USD,United States Dollar,US,77,44.81,61.53,73.94,76.47,81.83
+Boston,United States,USD,United States Dollar,US,84.53,75.1,80,82.85,84.74,120.72
+Baltimore,United States,USD,United States Dollar,US,75.39,48.01,62.23,78.45,69.15,116.16
+Detroit,United States,USD,United States Dollar,US,73.1,37.27,55.89,69.19,61.51,109.94
+Grand Rapids,United States,USD,United States Dollar,US,70.48,43.23,57.39,76,64.03,116.02
+Ann Arbor,United States,USD,United States Dollar,US,69.3,53.41,61.66,71.21,70.18,129.31
+Saint Paul,United States,USD,United States Dollar,US,77.45,37.64,58.32,76.44,72.1,106.29
+Minneapolis,United States,USD,United States Dollar,US,74.73,51.16,63.4,74.08,68.62,118.59
+Saint Louis,United States,USD,United States Dollar,US,66.97,32.65,50.48,68.67,61.11,107.89
+Kansas City,United States,USD,United States Dollar,US,64.67,39.73,52.69,57.69,70.93,122.29
+Asheville,United States,USD,United States Dollar,US,76.75,54.74,66.18,86.5,64.93,81.73
+Charlotte,United States,USD,United States Dollar,US,70.01,51.82,61.27,68.85,64.54,134.98
+Raleigh,United States,USD,United States Dollar,US,65.63,47.68,57.01,65.58,63.83,130.12
+Omaha,United States,USD,United States Dollar,US,75.28,29.52,53.29,70.29,73.17,103.38
+Albuquerque,United States,USD,United States Dollar,US,64.12,37.09,51.13,64.03,64.37,143.04
+Reno,United States,USD,United States Dollar,US,73.39,44.29,59.41,74.28,71.53,82.46
+Las Vegas,United States,USD,United States Dollar,US,70.97,40.18,56.18,64.11,70.46,107.06
+New York,United States,USD,United States Dollar,US,100,100,100,100,100,100
+Buffalo,United States,USD,United States Dollar,US,73.55,34.72,54.89,69.55,68.98,106.28
+Albany,United States,USD,United States Dollar,US,67.69,33.93,51.47,66.37,64.03,131.74
+Cleveland,United States,USD,United States Dollar,US,71.9,40.22,56.68,69.17,67.66,117.5
+Columbus,United States,USD,United States Dollar,US,70.61,37.03,54.47,66.09,71.7,126.7
+Akron,United States,USD,United States Dollar,US,70.41,24,48.11,65.43,76.34,79.53
+Cincinnati,United States,USD,United States Dollar,US,66.89,37.06,52.56,67.74,62.63,113.37
+Tulsa,United States,USD,United States Dollar,US,64.11,27.25,46.4,59.2,52.99,120.98
+Oklahoma City,United States,USD,United States Dollar,US,63.92,29.91,47.58,65.92,51.65,119.44
+Portland,United States,USD,United States Dollar,US,78.81,50.61,65.26,77.95,69.52,102.2
+Pittsburgh,United States,USD,United States Dollar,US,80.55,37.79,60,89.89,63.27,103.65
+Philadelphia,United States,USD,United States Dollar,US,75.98,49.18,63.1,77.57,66.4,126.14
+Nashville,United States,USD,United States Dollar,US,79.95,60.93,70.81,81.04,67.1,98.99
+Knoxville,United States,USD,United States Dollar,US,62.85,32.85,48.44,60.97,53.49,120.6
+Memphis,United States,USD,United States Dollar,US,61.41,33.26,47.88,58.17,64.48,146.4
+Plano,United States,USD,United States Dollar,US,77.47,47.94,63.28,77.4,61.13,114.2
+Dallas,United States,USD,United States Dollar,US,75.16,52.39,64.22,72.41,79.42,132.23
+Fort Worth,United States,USD,United States Dollar,US,71.16,45.68,58.92,70.54,62.96,115.82
+Austin,United States,USD,United States Dollar,US,69.14,61.18,65.32,68.71,72.46,144.33
+Houston,United States,USD,United States Dollar,US,66.41,45.06,56.15,61.78,66.82,154.53
+San Antonio,United States,USD,United States Dollar,US,61.62,36.65,49.62,56.36,60.88,149.93
+Salt Lake City,United States,USD,United States Dollar,US,66.77,45.13,56.37,60.95,73.4,122.09
+Seattle,United States,USD,United States Dollar,US,89.57,63.83,77.2,90.96,85.07,149.91
+Spokane,United States,USD,United States Dollar,US,71.82,40.21,56.63,66.89,74.15,90.11
+Madison,United States,USD,United States Dollar,US,68.95,41.68,55.85,70.02,66.83,110.44
+Milwaukee,United States,USD,United States Dollar,US,66.53,33.86,50.83,61.74,59.85,133.41
+Montevideo,Uruguay,UYU,Uruguayan Peso,UY,56.05,17.19,37.38,45.44,53.14,28.25
+Tashkent,Uzbekistan,UZS,Uzbekistani So'm,UZ,28.65,11.58,20.45,26.32,25.07,24.99
+Caracas,Venezuela,VES,Venezuelan Bolívar Soberano,VE,43.15,10.15,27.29,36.08,42.7,12.23
+Ho Chi Minh City,Vietnam,VND,Vietnamese ??ng,VN,37.38,16.69,27.44,37.51,19.99,30.93
+Hanoi,Vietnam,VND,Vietnamese ??ng,VN,35.59,11.91,24.21,35.4,18.81,28.84
+Harare,Zimbabwe,ZWL,Zimbabwean Dollar,ZW,42.52,10.89,27.32,34.7,35.66,15.29
