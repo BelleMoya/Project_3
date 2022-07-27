@@ -10887,21 +10887,26 @@ const geojson = {
   const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/satellite-streets-v11',
-  zoom: 2.5,
-  center: [-90, 25],
+  zoom: 3,
+  center: [-90, 40],
   projection: 'globe'
   });
 
   map.on('style.load', () => {
-    map.setFog({    "range": [0.8, 8],
+    map.setFog({
+    "range": [
+        0.5,
+        10
+      ],
     "color": "#dc9f9f",
-    "horizon-blend": 0.3,
+    "horizon-blend": 0.2,
     "high-color": "#245bde",
     "space-color": "#000000",
-    "star-intensity": 10.5});
+    "star-intensity": 0.9});
   });
 
-  
+
+
   // Add markers to the map.
 for (const marker of geojson.features) {
   // Create a DOM element for each marker.
@@ -10913,18 +10918,45 @@ for (const marker of geojson.features) {
   el.style.width = `40px`;
   el.style.height = `40px`;
   el.style.backgroundSize = '100%';
-   
-  el.addEventListener('click', () => {
-  window.alert(marker.properties.City);
-  });
-   
+      
   const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(
-    (`<h3>City:${marker.properties.City}</h3><hr><p>Country:${marker.properties.Country} (${marker.properties.ISO_3166})<hr></p><p>Currency Name:${(marker.properties.Currency_Name)} (${(marker.properties.Currency_Code)})</p>`)
+    (`<p><strong>${marker.properties.City},${marker.properties.Country} (${marker.properties.ISO_3166})</strong><hr></p>
+    <p><strong>Currency Name: </strong>${(marker.properties.Currency_Name)} (${(marker.properties.Currency_Code)})<hr></p>
+    <p><strong>Cost of Living Index (excludes rent): </strong>${marker.properties.Cost_of_Living_Index} <br>(${(marker.properties.Cost_of_Living_Index - 100.00).toFixed(2)}% vs. New York)<hr></p>
+    <p><strong>Local Purchasing Power: </strong>${marker.properties.Local_Purchasing_Power_Index} <br>(${(marker.properties.Local_Purchasing_Power_Index - 100).toFixed(2)}% vs. New York)<hr></p>
+    <p><strong>Groceries Index: </strong>${marker.properties.Groceries_Index} <br>(${(marker.properties.Groceries_Index - 100).toFixed(2)}% vs. New York)<hr></p>
+    `)
   );
 
   popup.on('open', () => {
-    console.log(`City:${marker.properties.City}; Country:${marker.properties.Country}; ISO Code:${marker.properties.ISO_3166}; Currency Code:${(marker.properties.Currency_Code)}; Currency Name:${(marker.properties.Currency_Name)}`)
-        });
+    console.log(`
+    City: ${marker.properties.City}; 
+    Country: ${marker.properties.Country}; 
+    ISO Code: ${marker.properties.ISO_3166}; 
+    Currency Code: ${(marker.properties.Currency_Code)}; 
+    Currency Name: ${(marker.properties.Currency_Name)};
+    `)
+  });
+
+  
+el.addEventListener('click', () => {
+    if (window.confirm('If you click "ok" you will be redirected to (https://www.travel-advisory.info/) to view the CURRENT TRAVEL ADVISORY WARNINGS for the selected country. Cancel will load additional details')) 
+    {
+    window.location.href=("https://www.travel-advisory.info/widget-no-js?countrycode="+(marker.properties.ISO_3166));
+}});
+
+el.addEventListener('click', () => {
+  if (window.confirm('If you click "ok" you will be redirected to (https://www.google.com/finance/) to view the CURRENT EXCHANGE RATE for the selected country. Cancel will load additional details')) 
+  {
+  window.location.href=("https://www.google.com/finance/quote/USD-"+(marker.properties.Currency_Code));
+}});
+
+el.addEventListener('click', () => {
+  if (window.confirm('If you click "ok" you will be redirected to (https://www.accuweather.com/) to view the CURRENT WEATHER FORECAST for the selected country. Cancel will load additional details')) 
+  {
+  window.location.href=("https://www.accuweather.com/en/"+(marker.properties.ISO_3166)+"/national/weather-forecast-maps");
+}});
+
 
   // Add markers to the map.
   new mapboxgl.Marker(el)
@@ -10932,9 +10964,11 @@ for (const marker of geojson.features) {
   .setPopup(popup)
   .addTo(map);
 
-//queryUrl = ("https://www.travel-advisory.info/api")
+
+  
+//queryUrl = ("https://www.travel-advisory.info/api/")
 //var city = marker.properties.ISO_3166
-//d3.json(queryUrl).then((advisory) => {
+//d3.json(queryUrl+city).then((advisory) => {
 //console.log(advisory.data);
 //});
 
@@ -10949,7 +10983,7 @@ for (const marker of geojson.features) {
 //});
 //}
 
-const myJSON = JSON.stringify(geojson);
-console.log(myJSON)
+//const myJSON = JSON.stringify(geojson);
+//console.log(myJSON)
 
       }
