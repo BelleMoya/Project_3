@@ -10914,7 +10914,7 @@ for (const marker of geojson.features) {
   const width = marker.properties.Cost_of_Living_Index;
   const height = marker.properties.Local_Purchasing_Power_Index;
   el.className = 'marker';
-  el.style.backgroundImage = `url(https://image.similarpng.com/thumbnail/2020/08/Navigation-Concept-on-transparent-background-PNG.png)`;
+  el.style.backgroundImage = `url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.clipartpanda.com%2Flocation-icon-map-png-map_pointer.png&f=1&nofb=1)`;
   el.style.width = `40px`;
   el.style.height = `40px`;
   el.style.backgroundSize = '100%';
