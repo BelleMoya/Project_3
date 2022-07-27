@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
   // Perform a GET request to the query URL/
+>>>>>>> 02e97b7ab826ca948e7943bb84363d1a45d8efd3
 const geojson = {
   "type": "FeatureCollection",
   "features": [
