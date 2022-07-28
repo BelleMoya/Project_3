@@ -1,3 +1,4 @@
+from pydoc import render_doc
 from flask import Flask, render_template
 import pymongo
 from config import conn
@@ -9,7 +10,6 @@ client = pymongo.MongoClient(conn)
 
 # connect to mongo db and collection
 db = client.COL
-
 
 @app.route("/")
 def index():
