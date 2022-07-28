@@ -10879,11 +10879,10 @@ const geojson = {
    "Restaurant_Price_Index":35.66,
    "Local_Purchasing_Power_Index":15.29
    }
- }
-]
+  } 
+ ]
 }
-
-  mapboxgl.accessToken = 'pk.eyJ1IjoiY2JhcnJhemEiLCJhIjoiY2w1a2QydWd2MDh4OTNqbHZibGI4aGsydiJ9.ird6_TK2bSj6FJT5bTXnMg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY2JhcnJhemEiLCJhIjoiY2w1a2QydWd2MDh4OTNqbHZibGI4aGsydiJ9.ird6_TK2bSj6FJT5bTXnMg';
   const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/satellite-streets-v11',
@@ -10891,22 +10890,18 @@ const geojson = {
   center: [-90, 40],
   projection: 'globe'
   });
-
   map.on('style.load', () => {
     map.setFog({
     "range": [
         0.5,
         10
       ],
-    "color": "#dc9f9f",
+    "color": "#DC9F9F",
     "horizon-blend": 0.2,
-    "high-color": "#245bde",
+    "high-color": "#245BDE",
     "space-color": "#000000",
     "star-intensity": 0.9});
   });
-
-
-
   // Add markers to the map.
 for (const marker of geojson.features) {
   // Create a DOM element for each marker.
@@ -10918,7 +10913,6 @@ for (const marker of geojson.features) {
   el.style.width = `40px`;
   el.style.height = `40px`;
   el.style.backgroundSize = '100%';
-      
   const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(
     (`<p><strong>${marker.properties.City},${marker.properties.Country} (${marker.properties.ISO_3166})</strong><hr></p>
     <p><strong>Currency Name: </strong>${(marker.properties.Currency_Name)} (${(marker.properties.Currency_Code)})<hr></p>
@@ -10927,53 +10921,43 @@ for (const marker of geojson.features) {
     <p><strong>Groceries Index: </strong>${marker.properties.Groceries_Index} <br>(${(marker.properties.Groceries_Index - 100).toFixed(2)}% vs. New York)<hr></p>
     `)
   );
-
   popup.on('open', () => {
     console.log(`
-    City: ${marker.properties.City}; 
-    Country: ${marker.properties.Country}; 
-    ISO Code: ${marker.properties.ISO_3166}; 
-    Currency Code: ${(marker.properties.Currency_Code)}; 
+    City: ${marker.properties.City};
+    Country: ${marker.properties.Country};
+    ISO Code: ${marker.properties.ISO_3166};
+    Currency Code: ${(marker.properties.Currency_Code)};
     Currency Name: ${(marker.properties.Currency_Name)};
     `)
   });
 
-  
 el.addEventListener('click', () => {
-    if (window.confirm('If you click "ok" you will be redirected to (https://www.travel-advisory.info/) to view the CURRENT TRAVEL ADVISORY WARNINGS for the selected country. Cancel will load additional details')) 
+    if (window.confirm('If you click "ok" you will be redirected to (https://www.travel-advisory.info/) to view the CURRENT TRAVEL ADVISORY WARNINGS for the selected country. Cancel will load additional details'))
     {
     window.location.href=("https://www.travel-advisory.info/widget-no-js?countrycode="+(marker.properties.ISO_3166));
 }});
-
 el.addEventListener('click', () => {
-  if (window.confirm('If you click "ok" you will be redirected to (https://www.google.com/finance/) to view the CURRENT EXCHANGE RATE for the selected country. Cancel will load additional details')) 
+  if (window.confirm('If you click "ok" you will be redirected to (https://www.google.com/finance/) to view the CURRENT EXCHANGE RATE for the selected country. Cancel will load additional details'))
   {
   window.location.href=("https://www.google.com/finance/quote/USD-"+(marker.properties.Currency_Code));
 }});
-
 el.addEventListener('click', () => {
-  if (window.confirm('If you click "ok" you will be redirected to (https://www.accuweather.com/) to view the CURRENT WEATHER FORECAST for the selected country. Cancel will load additional details')) 
+  if (window.confirm('If you click "ok" you will be redirected to (https://www.accuweather.com/) to view the CURRENT WEATHER FORECAST for the selected country. Cancel will load additional details'))
   {
   window.location.href=("https://www.accuweather.com/en/"+(marker.properties.ISO_3166)+"/national/weather-forecast-maps");
 }});
-
-
   // Add markers to the map.
   new mapboxgl.Marker(el)
   .setLngLat(marker.geometry.coordinates)
   .setPopup(popup)
   .addTo(map);
-
-
-  
 //queryUrl = ("https://www.travel-advisory.info/api/")
 //var city = marker.properties.ISO_3166
 //d3.json(queryUrl+city).then((advisory) => {
 //console.log(advisory.data);
 //});
-
 //$.getJSON(queryUrl, function(data) {
-// 
+//
 // var text = `City ${data.data.name}<br>
 //              Travel Advisory: ${data.data.advisory.message}<br>
 //              Last Updated: ${data.data.advisory.updated}`
@@ -10982,8 +10966,6 @@ el.addEventListener('click', () => {
 //  console.log(text);
 //});
 //}
-
 //const myJSON = JSON.stringify(geojson);
 //console.log(myJSON)
-
-      }
+}
