@@ -10930,6 +10930,7 @@ for (const marker of geojson.features) {
     Currency Name: ${(marker.properties.Currency_Name)};
     `)
   });
+
 el.addEventListener('click', () => {
     if (window.confirm('If you click "ok" you will be redirected to (https://www.travel-advisory.info/) to view the CURRENT TRAVEL ADVISORY WARNINGS for the selected country. Cancel will load additional details'))
     {
